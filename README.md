@@ -16,6 +16,7 @@ Preprocessing: Videos are preprocessed to enhance quality and extract relevant f
 Model Inference: The Video Vision Transformer analyzes the video frames and classifies the different types of strokes.
 
 🤝 Benefits:
+============
 Enhanced Training: Coaches and players can gain insights into stroke mechanics and improve their techniques.
 
 Performance Analysis: Enables detailed performance analysis and comparison over time.
