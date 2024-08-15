@@ -1,4 +1,5 @@
 Welcome to the repository for my final year project on Table Tennis Stroke Classification. This project leverages cutting-edge Video Vision Transformer (ViViT) technology to analyze and classify table tennis strokes from video data. The aim is to enhance the understanding of stroke mechanics and improve player training through accurate stroke recognition.
+
 🚀 Key Features:
 =================
 Advanced Video Analysis: Utilizes the Video Vision Transformer model to process and understand video sequences, enabling precise stroke classification.
